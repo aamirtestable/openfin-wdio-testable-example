@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "chai": "4.2.0",
-    "lodash": "4.17.19",
-    "testable-utils": "0.5.4",
+    "lodash": "4.17.21",
+    "testable-utils": "0.5.11",
     "webdriverio": "6.10.11",
     "@wdio/cli": "6.10.11",
     "@wdio/dot-reporter": "6.10.6",
