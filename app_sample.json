@@ -18,10 +18,9 @@
             "width": 5,
             "height": 5
         },
-        "contextMenu": true
     },
     "runtime": {
-        "arguments": "--enable-chromium-window-alert --allow-http-screen-capture",
+        "arguments": "--v=1 --enable-chromium-window-alert --allow-http-screen-capture",
         "version": "25.100.70.3"
     },
     "splashScreenImage": "https://cdn.openfin.co/demos/hello/splashscreen/splash_hello.png",
