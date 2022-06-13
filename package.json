@@ -7,6 +7,6 @@
     "lodash": "4.17.21",
     "testable-utils": "0.5.11",
     "webdriverio": "7.13.0"
-    "wd": "^0.3.10",    
+    "wd": "^0.3.10"
   }
 }
